@@ -1,4 +1,7 @@
 # Template Challenge (TC) v0
+<p align="center">
+  <img src="![image](https://github.com/DrSlamp/CGCtemplate/assets/24397487/655b6a96-1b90-4e44-91ed-cf2b32c010d4)" alt="ChicksGold"/>
+</p>
 
 
 
