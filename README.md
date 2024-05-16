@@ -1,13 +1,11 @@
 # Template Challenge (TC) v0
+<h2 align="center">Desktop View</h2>
 <p align="center">
-  <h2>Desktop View </h2>h2>
   <img src="https://github.com/DrSlamp/CGCtemplate/assets/24397487/655b6a96-1b90-4e44-91ed-cf2b32c010d4" alt="ChicksGold"/>
 </p>
 
-
-
+<h2 align="center">Mobile View</h2>
 <p align="center">
-  <h2> Mobile View </h2>h2>
   <img src="https://github.com/DrSlamp/CGCtemplate/assets/24397487/33b9dd6e-e8cc-49bf-8bbd-6ff13f2d1015" alt="ChicksGold Mobile"/>
 </p>
 
