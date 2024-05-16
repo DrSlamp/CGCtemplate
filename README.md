@@ -37,5 +37,8 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/). 
 
 <b>F.A.Q</b>
+<p>
 Q- Is responsive? 
 A- Yes, mobile first. 🫡
+</p>
+
