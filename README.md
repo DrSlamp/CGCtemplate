@@ -39,7 +39,38 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ### F.A.Q 
 <p>Q- Is responsive? </p>
 
-<p>A- Yes, mobile first. 🫡</p>
+<p>A- Yes, mobile first. 🫡</p> 
+
+<p>Q- the secret to maintain the proportions of the cards? </p>
+
+<p>A- Pay attention to height and width 🫡</p> 
+```
+
+.product-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(290px, 1fr)); /* to 5 cards */
+  gap: 2px; /* gap space */
+  padding-top: 100px;
+  padding-left: 40px;
+  padding-right: 0px;
+  border-radius: 5px;
+  background-color: #303141;
+  border: 1px solid #383f56;
+}
 
 
+  .product-card {
+    display:flexbox;
+    flex-direction: column;
+    align-items: center;
+    height: auto;
+    width: 220px;
+    padding: 10px;
+    margin-bottom: 50px;
+    border-radius: 5px;
+    background-color: #323648;
+    color: white;
+    
+  }
 
+```
