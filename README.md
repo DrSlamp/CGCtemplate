@@ -1,4 +1,4 @@
-# Template Challenge (TC) v0
+<h1 align="center">Template Challenge (TC) v0</h1>
 <h2 align="center">Desktop View</h2>
 <p align="center">
   <img src="https://github.com/DrSlamp/CGCtemplate/assets/24397487/655b6a96-1b90-4e44-91ed-cf2b32c010d4" alt="ChicksGold"/>
