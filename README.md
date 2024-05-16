@@ -10,7 +10,7 @@
 </p>
 
 
-For this project:
+### For this project:
 <b>Vuejs 3 Vue  Pure CSS</b> was used for this project. 
 
 <b>About template challenge: </b>
