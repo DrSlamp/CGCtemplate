@@ -48,7 +48,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ```
 .product-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(290px, 1fr)); /* to 5 cards */
+  grid-template-columns: repeat(auto-fill, minmax(290px, 1fr)); /* up to 5 cards */
   gap: 2px; /* gap space */
   padding-top: 100px;
   padding-left: 40px;
