@@ -79,3 +79,19 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
   }
 ```
 
+<h2 align="center">Assets</h2>
+<p align="center">
+
+
+
+  <h3 align="center">Holy Sword</h3>
+  <img src="https://github.com/DrSlamp/CGCtemplate/assets/24397487/f0801c3d-b92f-41e5-9cfa-4383c3b007e3" alt="Holy Sword"/>
+  <h3 align="center">Fire Sword</h3>
+  <img src="https://github.com/DrSlamp/CGCtemplate/assets/24397487/aa95e57d-e222-4b75-b2ad-5bbe964dde3e" alt="Fire Sword"/>
+  <h3 align="center">Reaper</h3>
+  <img src="https://github.com/DrSlamp/CGCtemplate/assets/24397487/7f2c390f-b38b-4bf4-9dbb-70ed496df20b" alt="Reaper"/>
+
+
+  <h3 align="center">Assets made in Pixelorama v0.10.3, Paul Barreto, 2024</h3>
+</p>
+
