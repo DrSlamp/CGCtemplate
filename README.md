@@ -48,7 +48,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 <p>Q- the secret to maintain the proportions of the cards? </p>
 
-<p>A- Pay attention to height and width 🫡</p> 
+<p>A- Pay attention to height and width, check the container grid (cards home) 🫡</p> 
 
 ```
 .product-grid {
