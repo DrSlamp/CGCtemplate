@@ -14,23 +14,23 @@
       <div class="dropdowns-search">
         <select>
         <option disabled selected>Select a game</option>
-        <!-- Opciones del juego aquí -->
+        <!-- Game options -->
       </select>
       </div>
       
       <select>
         <option disabled selected>Search</option>
-        <!-- Opciones de búsqueda aquí -->
+        <!-- Search options -->
       </select>
       <select>
         <option disabled selected>Price</option>
         <option>All</option>
-        <!-- Opciones de precio aquí -->
+        <!-- Price options -->
       </select>
       <select>
         <option disabled selected>Item Type</option>
         <option>All</option>
-        <!-- Opciones de tipo de artículo aquí -->
+        <!-- Item type options -->
       </select>
     </div>
   </div>
