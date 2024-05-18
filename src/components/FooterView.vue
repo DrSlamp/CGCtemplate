@@ -30,7 +30,7 @@
       <font-awesome-icon :icon="['fab', 'instagram']" alt="Instagram"/>
       <font-awesome-icon :icon="['fab', 'twitter']" alt="Twitter"/>
       <font-awesome-icon :icon="['fab', 'discord']" alt="Discord"/>
-      <!-- Agrega los demás íconos de las redes sociales aquí -->
+      
     </div>
 
 
@@ -59,14 +59,14 @@
         <a href="#">About Us</a>
         <a href="#">Blog</a>
         <a href="#">Sitemap</a>
-        <!-- Agrega los demás enlaces de Chicks Gold aquí -->
+       
       </div>
 
       <div class="support1">
         <h2><b>Support</b></h2>
         <a href="#">Contact Us</a>
         <a href="#">FAQ</a>
-        <!-- Agrega los demás enlaces legales aquí -->
+        
       </div>
 
       <div class="legal">
@@ -74,7 +74,7 @@
         <a href="#">Privacy Policy</a>
         <a href="#">Terms of Service</a>
         <a href="#">Copyright Policy</a>
-        <!-- Agrega los demás enlaces legales aquí -->
+       
       </div>
 
       <div class="reviews">
@@ -105,9 +105,9 @@ export default {
   background-color: #2b2c3b; /* Gray background */
   padding: 40px;
   border-radius: 5px;
-  display: flex; /* Agrega esto */
-  justify-content: center; /* Centra los elementos horizontalmente */
-  align-items: center; /* Centra los elementos verticalmente */
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
 }
 
 .payment-logos img {
@@ -161,7 +161,7 @@ export default {
 .social-icons {
   gap: 40px;
   display: flex;
-  justify-content: left; /* Alinea los enlaces a la izquierda */
+  justify-content: left; 
   margin-left: 1px;
   padding-left: 0px;
   
@@ -177,9 +177,9 @@ export default {
 .footer-links div a {
   
   
-   /* Margen a la derecha de cada enlace para el espaciado */
+  
   color: white;
-  text-decoration: none; /* Elimina el subrayado de los enlaces */
+  text-decoration: none; 
 }
 
 p {
@@ -216,44 +216,44 @@ p {
 .footer-links div a {
   
   text-align: left;
-  display: block; /* Cada enlace en su propia línea */
-  margin-bottom: 10px; /* Espaciado entre los enlaces */
+  display: block; 
+  margin-bottom: 10px; 
 }
 
 .footer-links div h2 {
   text-align: left;
-  margin-bottom: 15px; /* Espaciado debajo del encabezado */
+  margin-bottom: 15px; 
 }
 
 
 
 @media (max-width: 600px) {
   .footer {
-    padding: 20px; /* Reduce el padding en pantallas pequeñas */
-    font-size: 12px; /* Reduce el tamaño de fuente en pantallas pequeñas */
+    padding: 20px; 
+    font-size: 12px; 
   }
 
   .payment-logos img,
   .social-icons img,
   .reviews img {
-    max-width: 30px; /* Reduce el tamaño de los iconos en pantallas pequeñas */
+    max-width: 30px; 
   }
 
   .footer-links div a {
-    margin-right: 10px; /* Reduce el margen a la derecha de cada enlace para el espaciado en pantallas pequeñas */
+    margin-right: 10px; 
   }
 
   .distributionf {
-    flex-direction: column; /* Los elementos hijos se apilan verticalmente en pantallas pequeñas */
-    align-items: flex-start; /* Alinea los elementos a la izquierda */
-    gap: 20px; /* Añade un espacio entre los elementos */
+    flex-direction: column; 
+    align-items: flex-start; 
+    gap: 20px; 
   }
 
   .chicks-gold,
   .support,
   .support1,
   .legal {
-    padding-right: 0; /* Elimina el padding a la derecha en pantallas pequeñas */
+    padding-right: 0; 
   }
 }
 
